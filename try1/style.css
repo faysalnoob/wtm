@@ -1,0 +1,33 @@
+h1{
+    color:red;
+    background-color:beige;
+    font-family: Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: right;
+}
+p{
+    font-weight: bold;
+    font-size: 12px;
+}
+.my-input{
+    border:2px solid light rgb(29, 36, 172)
+    border-radius: 5px;
+}
+ {
+	text-align: center;
+	color: blue;
+}
+a:hover {
+    color: red;
+}
+a:hover{
+    color: green;
+}
+a:visited { colour: purple; 
+}
+#my-p {
+	display: none;
+	background-color: yellow;
+	padding: 20px;
+}
